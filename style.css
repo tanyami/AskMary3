@@ -29,9 +29,7 @@ body {
 	max-width: 366.5px;
 	padding: 23px 26.5px 32px 29px;
 	max-height: 526px;
-	border-right: 1px solid #fff;
-	
-	
+	border-right: 1px solid #fff;	
 }
 .grid__box_flower {
 	box-sizing: border-box;
@@ -62,8 +60,7 @@ h1 {
 .form_control {
 	display: block;
 	background: #fff;
-	font-size: 1.25rem;
-	font-weight: bold;
+	font-size: 1.25rem;	
 	border: 1px solid #DADADA;
 	box-sizing: border-box;
 	border-radius: 5px;
@@ -80,8 +77,7 @@ h1 {
 	justify-content: center;
 }
 .grid__box_button_left button {
-	font-size: 0.875rem;
-	font-weight: bold;
+	font-size: 0.875rem;	
 	width: 126px;
 	height: 48px;
 	background: #fff;
@@ -111,6 +107,7 @@ hr {
 	margin-bottom: 16px;
 }
 .grid__box_description {
+	font-family: 'Josefin Sans', sans-serif;
 	display: block;
 	max-width: 311px;
 	height: 112px;
@@ -122,8 +119,7 @@ hr {
 	border-radius: 5px;
     color: #000;
     padding: 4px 16px 40px 17px;
-   	overflow: hidden;
-    
+   	overflow: hidden;    
 }
 .grid__box_description:hover {
   height: auto;
@@ -139,8 +135,7 @@ hr {
 }
 
  h2 {
-	font-size: 0.875rem;
-	font-weight: bold;
+	font-size: 0.875rem;	
 	color: #000;
 	text-align: center;
 	margin-bottom: 7px;
@@ -157,7 +152,6 @@ hr {
 }
 .grid__box_right button {
 	font-size: 0.875rem;
-	font-weight: bold;
 	width: 75px;
 	height: 34px;
 	background: #fff;
